@@ -2,7 +2,7 @@
 - 👀 I’m interested in drawing 
 - 🌱 I’m currently learning in college 
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can to reach me by comment 
+- 📫 You can write comment 
 
 <!---
 Manish-Sha/Manish-Sha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
